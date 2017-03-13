@@ -1,2 +1,2 @@
 # hello-world
-desc
+Setting up my first github repository
